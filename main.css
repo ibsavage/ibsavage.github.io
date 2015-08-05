@@ -1,6 +1,9 @@
 html{
     background-image: url(https://github.com/ibsavage/ibsavage.github.io/blob/master/assets/images/abstract-cloudy-sky-textures-3.jpg?raw=true);
-    background-size: auto auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 body {
