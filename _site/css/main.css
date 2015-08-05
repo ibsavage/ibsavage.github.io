@@ -1,13 +1,12 @@
 html{
     background-color: #1abc9c;
 }
-body {
+.box1{
     background-color: #6c7a89;
     width: 50%;
     height: 50%;
     font-size: 100%;
     margin: 10px auto;
-    /*center*/
     padding-left: 1%;
     padding-right: 1%;
     padding-top: 1%;
@@ -16,6 +15,9 @@ body {
     border-radius: 20px;
     box-shadow: 2px 2px 2px black;
     font-family: 'Open Sans', sans-serif;
+}
+div{
+    background-color: #1abc9c;
 }
 h1{
     text-align: center;
