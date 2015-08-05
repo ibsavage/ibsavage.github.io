@@ -1,10 +1,5 @@
 html{
-    background-image: url(https://github.com/ibsavage/ibsavage.github.io/blob/master/assets/images/abstract-cloudy-sky-textures-3.jpg?raw=true);
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-color: #1abc9c;
 }
 body {
     background-color: #6c7a89;
@@ -13,4 +8,6 @@ body {
     /*center*/
     padding: 20px;
     border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px black;
 }
